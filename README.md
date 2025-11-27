@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Background Removal App
 
 A Streamlit application that allows users to upload an image and automatically remove its background using the [rembg](https://github.com/danielgatis/rembg) library.
@@ -50,6 +51,5 @@ The app will be available at http://localhost:8501 in your web browser.
 - Large images will be automatically resized for processing
 - Supported formats: PNG, JPG, JPEG
 
-## License
-
-MIT
+# streamlit-bg-removal
+This is web app based on python and streamlit purposely for removing background in pictures.
